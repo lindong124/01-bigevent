@@ -4,10 +4,6 @@ body, html {
 }
 
 body {
-    padding: 10px;
+    padding: 15px;
     background-color: #f2f3f5;
-}
-
-.layui-form {
-    width: 500px;
 }
